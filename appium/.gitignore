@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.tlog
+
+# Appium specific files
+.idea/
+*.iml
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Test output
+output/
+reports/
+screenshots/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp

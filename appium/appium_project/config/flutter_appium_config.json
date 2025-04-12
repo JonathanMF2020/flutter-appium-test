@@ -1,0 +1,8 @@
+{
+  "appium:platformName": "Android",
+  "appium:automationName": "Flutter",
+  "appium:deviceName": "emulator-5554",
+  "appium:appPackage": "com.example.appium_test",
+  "appium:maxRetryCount": "20",
+  "appium:app": "P:\\Proyectos\\AppiumTesst\\appium_test\\build\\app\\outputs\\apk\\debug\\app-debug.apk"
+}

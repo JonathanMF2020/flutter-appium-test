@@ -1,0 +1,16 @@
+# Appium dependencies
+appium-python-client==2.11.0
+
+# Flutter-specific dependencies
+appium-flutter-finder==0.3.0
+
+# Selenium for WebDriver support
+selenium==4.10.0
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# Pytest for testing framework
+pytest==7.4.0
+pytest-html==3.2.0
+pytest-xdist==3.3.1
